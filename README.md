@@ -29,7 +29,7 @@ Check out other repositories below for more technical deep dives, code samples, 
 
 ## Contact
 
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/hemanthpuppala/](https://www.linkedin.com/in/hemanth-puppala-93404921b/)) or email (hemanthpuppala47@gmail.com) for collaboration, internships, or just to talk about AI and new tech.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hemanth-puppala-93404921b/) or email (hemanthpuppala47@gmail.com) for collaboration, internships, or just to talk about AI and new tech.
 
 ---
 
