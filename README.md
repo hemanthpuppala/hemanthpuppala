@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - **🌐 [My Portfolio](https://hemanthpuppala.onrender.com/)**
-- **▶️ [Watch my Project's demo video]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/file/d/1dzj92zqwzw2LIwWA5ypc9B0WfLhwS_XC/view))**
+- **▶️ [Watch my Project's demo video](https://drive.google.com/file/d/1dzj92zqwzw2LIwWA5ypc9B0WfLhwS_XC/view)**
 
 ---
 
